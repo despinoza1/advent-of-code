@@ -6,9 +6,12 @@ Solutions using random language for each day; languages came from [Stack Overflo
 $ python3 get_lang.py
 ```
 
-## Day 1
+## Day 1: Trebuchet?!
 **Objective-C**
 
-## Day 2
+## Day 2: Cube Conundrum
 **Visual Basic**
+
+## Day 3
+**Ruby**
 
