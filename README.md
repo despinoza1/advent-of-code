@@ -23,3 +23,5 @@ $ python3 get_lang.py
 ### Day 5
 **Fortran**
 
+### Day 6
+**C**

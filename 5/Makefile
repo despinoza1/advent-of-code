@@ -1,3 +1,3 @@
 default:
 	gfortran soln.f90 -o soln
-	./soln
+	./soln input.txt
