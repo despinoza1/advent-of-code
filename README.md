@@ -8,20 +8,12 @@ $ python3 get_lang.py
 
 ## Advent of Code 2023
 
-### Day 1: Trebuchet?!
-**Objective-C**
-
-### Day 2: Cube Conundrum
-**Visual Basic**
-
-### Day 3: Gear Ratios
-**Ruby**
-
-### Day 4: Scratchcards
-**Swift**
-
-### Day 5
-**Fortran**
-
-### Day 6
-**C**
+| Day | Problem                                                                  | Language         |
+|-----|--------------------------------------------------------------------------|------------------|
+| 1   | [*Trebuchet?!*](https://adventofcode.com/2023/day/1)                     | **Objective-C**  |
+| 2   | [*Cube Conundrum*](https://adventofcode.com/2023/day/2)                  | **Visual Basic** |
+| 3   | [*Gear Ratios*](https://adventofcode.com/2023/day/3)                     | **Ruby**         |
+| 4   | [*Scratchcards*](https://adventofcode.com/2023/day/4)                    | **Swift**        |
+| 5   | [*If You Give A Seed A Fertilizer*](https://adventofcode.com/2023/day/5) | **Fortran**      |
+| 6   | [*Wait For It*](https://adventofcode.com/2023/day/6)                     | **C**            |
+| 7   | [*REPLACE_ME*](https://adventofcode.com/2023/day/7)                      | **Assembly**     |

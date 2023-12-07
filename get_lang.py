@@ -2,6 +2,8 @@ import json
 import os
 import random
 
+URL = "https://adventofcode.com/2023/day/"
+
 langs: list
 with open("languages.json", "r") as fp:
     langs = json.load(fp)
@@ -15,7 +17,4 @@ with open("README.md", "a") as fp:
     print(dirs)
 
     os.mkdir(f"./{dirs}")
-
-    fp.write("\n")
-    fp.write(f"### Day {dirs}\n")
-    fp.write(f"**{lang}**\n")
+    fp.write(f"| {dirs} | [*REPLACE_ME*]({URL}{dirs}) | **{lang}** |\n")
