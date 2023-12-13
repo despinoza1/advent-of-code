@@ -9,7 +9,7 @@ with open("languages.json", "r") as fp:
     langs = json.load(fp)
 
 index = random.randrange(1, len(langs) + 1)
-lang = langs[index]
+lang = langs[index - 1]
 print("Language:", lang)
 
 with open("README.md", "a") as fp:

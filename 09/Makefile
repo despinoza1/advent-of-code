@@ -1,0 +1,2 @@
+default:
+	ocaml soln.ml

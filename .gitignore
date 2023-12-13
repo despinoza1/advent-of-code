@@ -1,3 +1,9 @@
 **/*.d
 **/*.exe
 **/*soln
+
+**/*.bsp
+**/*.metals
+**/*.scala-build
+
+tmp/
