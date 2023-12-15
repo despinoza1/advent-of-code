@@ -1,6 +1,6 @@
 # Advent of Code
 
-Solutions using random language for each day; languages came from [Stack Overflow Developer survey](https://survey.stackoverflow.co/2023/#section-most-popular-technologies-programming-scripting-and-markup-languages) Most Popular Programming Languages.
+Solutions using random language for each day; languages came from [Stack Overflow Developer Survey](https://survey.stackoverflow.co/2023/#section-most-popular-technologies-programming-scripting-and-markup-languages) Most Popular Programming Languages.
 
 ```sh
 $ python3 get_lang.py
