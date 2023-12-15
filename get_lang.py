@@ -17,4 +17,4 @@ with open("README.md", "a") as fp:
     print(dirs)
 
     os.mkdir(f"./{dirs}")
-    fp.write(f"| {dirs} | [*REPLACE_ME*]({URL}{dirs}) | **{lang}** |\n")
+    fp.write(f"| {dirs} | [*REPLACE_ME*]({URL}{dirs}) | **{lang}** | |\n")
