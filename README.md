@@ -22,4 +22,6 @@ $ python3 get_lang.py
 | 10  | [*Pipe Maze*](https://adventofcode.com/2023/day/10)                      | **Scala**        |
 | 11  | [*Cosmic Expansion*](https://adventofcode.com/2023/day/11)               | **Python**       |
 | 12  | [*Hot Springs*](https://adventofcode.com/2023/day/12)                    | **SQL**          |
-| 13  | [*REPLACE_ME*](https://adventofcode.com/2023/day/13)                     | **Shell**          |
+| 13  | [*Point of Incidence*](https://adventofcode.com/2023/day/13)             | **Shell**        |
+| 14  | [*Parabolic Reflector Dish*](https://adventofcode.com/2023/day/14)                     | **Lisp**         |
+| 15  | [*REPLACE_ME*](https://adventofcode.com/2023/day/15)                     | **Shell**          |
