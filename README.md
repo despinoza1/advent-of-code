@@ -8,6 +8,8 @@ $ python3 get_lang.py
 
 ## Advent of Code 2023
 
+<div align="center">
+
 | Day | Problem                                                                  | Language         | Stars |
 |-----|--------------------------------------------------------------------------|------------------|-------|
 | 1   | [*Trebuchet?!*](https://adventofcode.com/2023/day/1)                     | **Objective-C**  | ★★    |
@@ -25,4 +27,14 @@ $ python3 get_lang.py
 | 13  | [*Point of Incidence*](https://adventofcode.com/2023/day/13)             | **Shell**        | ★     |
 | 14  | [*Parabolic Reflector Dish*](https://adventofcode.com/2023/day/14)       | **Lisp**         | ★     |
 | 15  | [*Lens Library*](https://adventofcode.com/2023/day/15)                   | **Shell**        |       |
-| 16  | [*REPLACE_ME*](https://adventofcode.com/2023/day/16)                     | **C**            |       |
+| 16  | [*The Floor Will Be Lava*](https://adventofcode.com/2023/day/16)         | **C**            | ★     |
+| 17  | [*Clumsy Crucible*](https://adventofcode.com/2023/day/17)                | **Cobol**        |       |
+| 18  | [*Lavaduct Lagoon*](https://adventofcode.com/2023/day/18)                | **Zig**          |       |
+| 19  | [*Aplenty*](https://adventofcode.com/2023/day/19)                        | **C++**          |       |
+| 20  | [*REPLACE_ME*](https://adventofcode.com/2023/day/20)                     | **Lua**          |       |
+| 21  | [*REPLACE_ME*](https://adventofcode.com/2023/day/21)                     | **Ruby**         |       |
+| 22  | [*REPLACE_ME*](https://adventofcode.com/2023/day/22)                     | **Julia**        |       |
+| 23  | [*REPLACE_ME*](https://adventofcode.com/2023/day/23)                     | **Nim**          |       |
+| 24  | [*REPLACE_ME*](https://adventofcode.com/2023/day/24)                     | **Assembly**     |       |
+
+</div>
